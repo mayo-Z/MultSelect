@@ -1,17 +1,10 @@
-# 下载
+# 项目启动说明
 
 ```
 git clone https://github.com/uptocorrupt/MultSelect.git
-```
-
-# 运行
-
-
-```
+cd MultSelect
 npm i
 npm run dev
 ```
-
-
 
 
