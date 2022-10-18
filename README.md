@@ -2,9 +2,14 @@
 
 ```
 git clone https://github.com/uptocorrupt/MultSelect.git
+```
+```
 cd MultSelect
+```
+```
 npm i
+```
+```
 npm run dev
 ```
-
 
